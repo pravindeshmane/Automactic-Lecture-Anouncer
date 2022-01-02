@@ -1,7 +1,7 @@
 
 /* Sample code-1 */
 /* Date and time functions using a DS3231 RTC connected via I2C and Wire lib  */
-/* audio setting by Anant Maind
+/* audio setting by Pravin Deshmane
 
 Change bit  resolution :8
 change sampling rate : 11025
